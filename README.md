@@ -30,6 +30,8 @@ GET  http://localhost:8080/es/search
 
     Optional parameters: Same as the standard search
 
+GET  http://localhost:8080/es/report
+
 ### Examples:
 GET  http://localhost:8080/search?name=argentina
 
